@@ -1,6 +1,6 @@
 node{
 
-   def tomcatWeb = 'C:\\apache-tomcat-8.5.71\webapps'
+   def tomcatWeb = 'C:\\apache-tomcat-8.5.71\\webapps'
    def tomcatBin = 'C:\\apache-tomcat-8.5.71\\bin'
    def tomcatStatus = ''
    stage('SCM Checkout'){
